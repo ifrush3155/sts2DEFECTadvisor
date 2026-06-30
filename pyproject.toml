@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sts2defect"
+version = "0.1.0"
+description = "Local Slay the Spire 2 card recommendation assistant prototype."
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+vision = [
+  "numpy>=1.26",
+  "opencv-python>=4.10",
+  "pillow>=10.0",
+  "rapidocr-onnxruntime>=1.4",
+  "psutil>=5.9",
+]
+overlay = [
+  "PySide6>=6.7",
+]
+dev = []
+
+[project.scripts]
+sts2defect = "sts2defect.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+sts2defect = ["assets/*.png"]

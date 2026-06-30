@@ -1,0 +1,52 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments and build outputs
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local config, logs, and runtime state
+.env
+.env.*
+*.log
+logs/
+.cache/
+.sts2defect/
+settings.json
+
+# Real Slay the Spire 2 profiles, saves, replays, and run histories
+data/samples/profile1/
+data/samples/**/profile*/
+data/samples/**/*.save
+data/samples/**/*.save.backup
+data/samples/**/*.run
+data/samples/**/*.run.backup
+data/samples/**/*.mcr
+data/samples/**/*.corrupt
+
+# Screenshots, OCR crops, card-art caches, and recognition debug output
+data/samples/ui-*.png
+data/samples/**/debug*/
+data/samples/**/live*/
+data/samples/**/ocr-crops/
+data/samples/**/screen*.png
+data/samples/**/screenshot*.png
+data/samples/**/card-reward-screen-*.png

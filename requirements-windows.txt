@@ -1,0 +1,2 @@
+# Windows runtime dependencies for the portable local setup.
+-e .[vision,overlay]

@@ -1,0 +1,53 @@
+{
+  "version": "2026-06-27-manual-example",
+  "source": {
+    "type": "manual",
+    "description": "示例数据。请根据 data/references/card-ranking-source.png 录入正式卡牌。"
+  },
+  "types": [
+    {
+      "name": "攻击接口",
+      "cards": [
+        {
+          "id": "BEAM_CELL",
+          "name": "Beam Cell",
+          "names": {
+            "eng": "Beam Cell",
+            "zhs": "光束射线"
+          },
+          "aliases": ["光束射线+"],
+          "rank": 1,
+          "total": 2,
+          "recommendIndex": "1/2"
+        },
+        {
+          "id": "BALL_LIGHTNING",
+          "name": "Ball Lightning",
+          "names": {
+            "eng": "Ball Lightning",
+            "zhs": "球状闪电"
+          },
+          "rank": 2,
+          "total": 2,
+          "recommendIndex": "2/2"
+        }
+      ]
+    },
+    {
+      "name": "防御接口",
+      "cards": [
+        {
+          "id": "CHARGE_BATTERY",
+          "name": "Charge Battery",
+          "names": {
+            "eng": "Charge Battery",
+            "zhs": "充电"
+          },
+          "rank": 1,
+          "total": 1,
+          "recommendIndex": "1/1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "save_time": 1782577456,
+  "players": [
+    {
+      "character_id": "CHARACTER.DEFECT",
+      "current_hp": 6,
+      "max_hp": 75,
+      "gold": 184,
+      "deck": [
+        {
+          "floor_added_to_deck": 1,
+          "id": "CARD.STRIKE_DEFECT"
+        },
+        {
+          "floor_added_to_deck": 1,
+          "id": "CARD.DEFEND_DEFECT"
+        },
+        {
+          "floor_added_to_deck": 1,
+          "id": "CARD.DEFEND_DEFECT"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 1,
+          "id": "CARD.DEFEND_DEFECT"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 1,
+          "id": "CARD.ZAP"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 1,
+          "id": "CARD.DUALCAST"
+        },
+        {
+          "floor_added_to_deck": 1,
+          "id": "CARD.ASCENDERS_BANE"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 1,
+          "id": "CARD.ICE_LANCE"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 2,
+          "id": "CARD.HOTFIX"
+        },
+        {
+          "floor_added_to_deck": 3,
+          "id": "CARD.UPROAR"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 6,
+          "id": "CARD.SKIM"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 9,
+          "id": "CARD.TURBO"
+        },
+        {
+          "floor_added_to_deck": 13,
+          "id": "CARD.HOLOGRAM"
+        },
+        {
+          "floor_added_to_deck": 14,
+          "id": "CARD.BOOST_AWAY"
+        },
+        {
+          "floor_added_to_deck": 15,
+          "id": "CARD.COMPILE_DRIVER"
+        },
+        {
+          "floor_added_to_deck": 17,
+          "id": "CARD.TRASH_TO_TREASURE"
+        },
+        {
+          "floor_added_to_deck": 20,
+          "id": "CARD.SQUASH"
+        },
+        {
+          "floor_added_to_deck": 21,
+          "id": "CARD.REFRACT"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 23,
+          "id": "CARD.ROCKET_PUNCH"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 31,
+          "id": "CARD.COMPACT"
+        },
+        {
+          "current_upgrade_level": 1,
+          "floor_added_to_deck": 31,
+          "id": "CARD.COMPACT"
+        },
+        {
+          "floor_added_to_deck": 35,
+          "id": "CARD.SUPERCRITICAL"
+        },
+        {
+          "floor_added_to_deck": 35,
+          "id": "CARD.SUPERCRITICAL"
+        }
+      ]
+    }
+  ]
+}
